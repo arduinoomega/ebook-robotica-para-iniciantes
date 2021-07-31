@@ -1,2 +1,2 @@
-# arduino-projetos-robotica-apostila
-Projetos de robótica que estão na Apostila Robótica para Iniciantes
+# Apostila de Robótica para Iniciantes
+Os projetos desse repositório fazem parte da Apostila Robótica para Iniciantes disponibilizada pela Arduino Ômega.
